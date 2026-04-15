@@ -26,37 +26,65 @@ Physics-based collisions
 Different wall behaviors depending on material
 
 Features
+
 Three distinct difficulty modes (Easy, Medium, Hard)
+
 Title screen with mode selection UI
+
 Return-to-menu option after win/loss
+
 Physics-based slingshot system
+
 Real-time trajectory visualization
+
 Large, forgiving goal zone system
+
 Material-based wall interactions:
+
 Solid walls (durable)
 Bouncy walls (high elasticity)
 Glass walls (breakable)
 Difficulty Modes
+
 Easy
-Highly forgiving goal zone
-Reduced launch power for better control
-Simple structure layouts
-Designed for accessibility and learning mechanics
+
+-Highly forgiving goal zone
+
+-Reduced launch power for better control
+
+-Simple structure layouts
+
+-Designed for accessibility and learning mechanics
+
 Medium
-Balanced launch power
-Mixed wall types requiring strategy
-Moderately sized goal zone
-Encourages controlled and accurate shots
+
+-Balanced launch power
+
+-Mixed wall types requiring strategy
+
+-Moderately sized goal zone
+
+-Encourages controlled and accurate shots
+
 Hard
-Increased complexity in structure layout
-More demanding shot precision
-Strategic use of bounce and break mechanics
-Still fair, but requires planning and consistency
+
+-Increased complexity in structure layout
+
+-More demanding shot precision
+
+-Strategic use of bounce and break mechanics
+
+-Still fair, but requires planning and consistency
+
 Extra Credit Features
-Particle effects:
+-Particle effects:
 Ball trail during flight
 Glass breaking effects
-sprite-based slingshot, walls, ball
-Visual sounds on collision
-Visual background sounds
-Animation in breaking glass walls
+
+-sprite-based slingshot, walls, ball
+
+-Visual sounds on collision
+
+-Visual background sounds
+
+-Animation in breaking glass walls
